@@ -4,15 +4,13 @@ import Calculator from './components/Calculator';
 class App extends React.Component {
   constructor(props) {
     super(props);
-
-    this.state = {}
+    this.state = {};
   }
+
   render() {
-    return ( 
-      
+    return (
       <Calculator />
-    )
+    );
   }
 }
-
 export default App;
