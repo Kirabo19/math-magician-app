@@ -7,6 +7,8 @@
 button {
   border: 1px rgb(184, 184, 184) solid;
   background: none;
+  background-color: #cbccd1;
+  font-size: 12px;
 }
 
 .calculator {
